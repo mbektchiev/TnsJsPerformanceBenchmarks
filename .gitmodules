@@ -1,0 +1,3 @@
+[submodule "octane"]
+	path = app/home/octane
+	url = git@github.com:chromium/octane.git
